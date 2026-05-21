@@ -34,10 +34,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasnoor1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasnoor1&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
   <img src="https://raw.githubusercontent.com/anasnoor1/anasnoor1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
