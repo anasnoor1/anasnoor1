@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Anas 👋
 
-🚀 Full Stack MERN Developer | AI-Driven Development
-🧠 Former QA Engineer transitioning into intelligent product engineering
-⚡ Building scalable apps with React, Node.js, MongoDB, AI APIs & automation
+🚀 QA Engineer | Software Testing & Test Automation (Playwright, JMeter)
+🧪 API Testing | 200+ Test Cases | Jira 
+⚡ MERN Stack Developer (React, Node.js, Next.js)
 
 ---
 
